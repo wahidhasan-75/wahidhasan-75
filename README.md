@@ -2,9 +2,7 @@
 
 ### CSE Student at BRAC University, Dhaka, Bangladesh Love Building Frontend, Backend & Full-Stack Projects, Interested in AI, Machine Learning & Deep Learning Always, Learning & Building
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wahidhasan-75&label=Profile views&color=0e75b6&style=flat" alt="wahidhasan-75" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wahidhasan-75" alt="wahidhasan-75" /></a> </p>
 
 - 📫 How to reach me **kaziwahid09@gmail.com**
 
